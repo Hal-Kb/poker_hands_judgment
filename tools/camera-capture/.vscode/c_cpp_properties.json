@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/jetson-utils",
+                "/usr/local/cuda-10.2/targets/aarch64-linux/include/",
+                "/usr/include/aarch64-linux-gnu/qt5/QtWidgets",
+                "/usr/include/aarch64-linux-gnu/qt5",
+                "/usr/local/include/jetson-inference",
+                "/usr/include/opencv-4.5.0/include",
+                "/usr/include/opencv-4.5.0/release",
+                "/usr/include/opencv-4.5.0/modules/core/include",
+                "/usr/include/opencv-4.5.0/modules/calib3d/include",
+                "/usr/include/opencv-4.5.0/modules/features2d/include",
+                "/usr/include/opencv-4.5.0/modules/flann/include",
+                "/usr/include/opencv-4.5.0/modules/dnn/include",
+                "/usr/include/opencv-4.5.0/modules/highgui/include",
+                "/usr/include/opencv-4.5.0/modules/imgcodecs/include",
+                "/usr/include/opencv-4.5.0/modules/videoio/include",
+                "/usr/include/opencv-4.5.0/modules/imgproc/include",
+                "/usr/include/opencv-4.5.0/modules/ml/include",
+                "/usr/include/opencv-4.5.0/modules/objdetect/include",
+                "/usr/include/opencv-4.5.0/modules/photo/include",
+                "/usr/include/opencv-4.5.0/modules/stitching/include",
+                "/usr/include/opencv-4.5.0/modules/video/include",
+                "/usr/include/opencv_contrib-4.5.0/modules/cudaimgproc/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
