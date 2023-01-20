@@ -57,7 +57,7 @@ Please check the operation on YouTube.<br>
 ## Supplement
 We have added a twist to save you the trouble of collecting your own detection dataset.<br>
 The tool (camera-capture) provided as the execution environment for Hello AI World has been modified independently so that the box surrounding the learning data can follow the movement of the card.<br>
-Before the modification, we had to manually change the position and size of the box after moving the card, which took a lot of time and effort, but by modifying the tool, we were able to greatly improve this point. rice field.<br>
+Before the modification, we had to manually change the position and size of the box after moving the card, which took a lot of time and effort, but by modifying the tool, we were able to greatly improve this point.<br>
 
 https://user-images.githubusercontent.com/123047785/213603156-c19f0030-6da3-477f-8f60-db64998b5147.mp4
 
