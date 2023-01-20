@@ -49,7 +49,7 @@ python3 detectnet_trump.py /dev/video0
 ```
 
 
-## Video
+## Demonstration
 Please check the operation on YouTube.<br>
 * [POKER HANDS JUDGMENT](https://www.youtube.com/watch?v=WUNSz5v2cBo)<br>
 
